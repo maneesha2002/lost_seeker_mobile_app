@@ -43,7 +43,7 @@ class Home extends StatelessWidget {
                 children: [
                   Text(
                     'Hello, Container!',
-                    style: TextStyle(color: Colors.black),
+                    style: TextStyle(color: Colors.white),
                   ),
                   SizedBox(height: 20), // Adding space between text and buttons
                   ElevatedButton(
