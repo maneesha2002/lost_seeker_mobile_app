@@ -50,7 +50,7 @@ class Home extends StatelessWidget {
                     onPressed: () {},
                     style: ButtonStyle(
                         backgroundColor: MaterialStateColor.resolveWith(
-                            (states) => Color.fromARGB(255, 224, 228, 5))),
+                            (states) => Color.fromARGB(25, 224, 228, 5))),
                     child: Text("Click Me 1"),
                   ),
                 ],
