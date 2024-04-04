@@ -15,7 +15,7 @@ class Message extends StatelessWidget {
         backgroundColor: Colors.blue[800],
       ),
       body: Container(
-        width: 400,
+        width: 40,
         height: 300,
         margin: EdgeInsets.all(20),
         padding: EdgeInsets.all(10),
